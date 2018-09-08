@@ -67,14 +67,15 @@ $this->params['breadcrumbs'][] = $this->title;
             'gradeheart',
             'gripst',
             'griperweight',
-            'gradegrip',
+            'gradegripName',
             'legpress',
             'legperweight',
             'gradeleg',
             'flexibility',
-            'gradeflex',
+            
+            'gradeflexName',
             'run2400',
-            'graderun',
+            'graderunName',
             'dateserv',
         ],
     ]) ?>
